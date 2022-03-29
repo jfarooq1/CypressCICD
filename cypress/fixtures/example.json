@@ -1,0 +1,10 @@
+{
+  "name": "jahanzab",
+  "email": "jahanzabfarooq@gmail.com",
+  "password": "12345",
+  "gender": "Male",
+  "products": [
+    "Samsung Note 8",
+    "iphone X"
+  ]
+}
